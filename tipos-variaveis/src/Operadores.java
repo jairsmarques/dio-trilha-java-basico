@@ -96,6 +96,12 @@ else
         if(numero1 != numero2)
             System.out.println("Numero 1 é diferente de numero 2");
 
+            //Verificar strings
+            String nomeUm = "Jair";
+            String nomeDois = "Jair";
+
+            System.out.println(nomeUm == nomeDois);
+
     }
     
     
