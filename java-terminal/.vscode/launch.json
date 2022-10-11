@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch UseScanner",
+            "request": "launch",
+            "mainClass": "UseScanner",
+            "projectName": "java-terminal_e6eece82"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "JAIR",
+                "SOUSA",
+                "47",
+                "1.78"
+            ]
+        }
+    ]
+}
