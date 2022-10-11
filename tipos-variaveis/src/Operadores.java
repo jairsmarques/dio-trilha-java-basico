@@ -102,6 +102,10 @@ else
 
             System.out.println(nomeUm == nomeDois);
 
+            //Verifica conteúdos(equals)
+            nomeDois = new String("Jair");
+            System.out.println(nomeUm.equals(nomeDois));
+
     }
     
     
