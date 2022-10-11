@@ -24,7 +24,8 @@ public class Operadores {
         System.out.println(concatenacao);
          */
 
-         int numero = 5;
+         /*
+        int numero = 5;
 
          System.out.println(- numero);
 
@@ -34,6 +35,21 @@ public class Operadores {
 
          numero = numero * -1;
          System.out.println(numero);
+          */
+
+          int numero = 5;
+          // x repeticao
+          //numero = numero + 2;
+          //numero += 2;
+          //numero++;
+
+          System.out.println(numero++);// -> imprime depois incrementa
+          System.out.println(numero);
+          System.out.println(++numero);// -> incrementa depois imprime
+
+          System.out.println(numero);
+
+
     }
     
 }
